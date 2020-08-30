@@ -1,0 +1,171 @@
+Message from Tower : Baloon#B1(1)  has been registered to Weather Tower
+Message from Tower : Baloon#B2(2)  has been registered to Weather Tower
+Message from Tower : JetPlane#J1(3)  has been registered to Weather Tower
+Message from Tower : Helicopter#H1(4)  has been registered to Weather Tower
+Message from Tower : Helicopter#H2(5)  has been registered to Weather Tower
+Message from Tower : Helicopter#H3(6)  has been registered to Weather Tower
+Message from Tower : Baloon#B3(7)  has been registered to Weather Tower
+Message from Tower : JetPlane#J2(8)  has been registered to Weather Tower
+Message from Tower : Helicopter#H4(9)  has been registered to Weather Tower
+Baloon#B2(2): OMG  is very hot
+Helicopter#H1(4): OMG  is very hot
+Helicopter#H3(6): OMG  is very hot
+Helicopter#H4(9): OMG  is very hot
+Baloon#B1(1): OMG  it raining
+JetPlane#J1(3): OMG it foggy
+Helicopter#H2(5): OMG  its snowing
+Baloon#B3(7): OMG The SNOW its BALL TIME
+Baloon#B1(1): OMG  cant see anything
+Baloon#B2(2): OMG The SNOW its BALL TIME
+JetPlane#J1(3): OMG  is very snowy
+Helicopter#H1(4): OMG  is very hot
+Helicopter#H2(5): OMG  is very hot
+Helicopter#H3(6): OMG  i cant see anything foggy
+Baloon#B1(1): OMG  is very hot
+Baloon#B2(2): OMG  cant see anything
+JetPlane#J1(3): OMG  is very hot
+Helicopter#H3(6): OMG  its snowing
+Baloon#B3(7): OMG The SNOW its BALL TIME
+JetPlane#J2(8): OMG  is very snowy
+Helicopter#H4(9): OMG  is very hot
+Baloon#B1(1): OMG  is very hot
+Baloon#B2(2): OMG  is very hot
+JetPlane#J1(3): OMG it foggy
+Helicopter#H1(4): OMG  i cant see anything foggy
+Baloon#B3(7): OMG  is very hot
+Baloon#B1(1): OMG  is very hot
+Baloon#B2(2): OMG  it raining
+Helicopter#H1(4): OMG  its snowing
+Helicopter#H2(5): OMG  i cant see anything foggy
+Helicopter#H3(6): OMG  its raining
+Baloon#B3(7): OMG  cant see anything
+JetPlane#J2(8): OMG  is very hot
+Helicopter#H4(9): OMG  its snowing
+Baloon#B1(1): OMG  it raining
+Baloon#B2(2): OMG  is very hot
+JetPlane#J1(3): OMG  is very snowy
+Helicopter#H2(5): OMG  its raining
+Helicopter#H3(6): OMG  i cant see anything foggy
+Baloon#B3(7): OMG  is very hot
+JetPlane#J2(8): OMG it foggy
+Helicopter#H4(9): OMG  its raining
+Baloon#B1(1): OMG  it raining
+Baloon#B2(2): OMG  it raining
+JetPlane#J1(3): OMG  is very snowy
+Helicopter#H1(4): OMG  its snowing
+Helicopter#H3(6): OMG  i cant see anything foggy
+Baloon#B3(7): OMG  cant see anything
+Helicopter#H4(9): OMG  its snowing
+Baloon#B1(1): OMG The SNOW its BALL TIME
+Baloon#B2(2): OMG The SNOW its BALL TIME
+JetPlane#J1(3): OMG it foggy
+Helicopter#H1(4): OMG  is very hot
+Helicopter#H2(5): OMG  its snowing
+Baloon#B3(7): OMG  cant see anything
+JetPlane#J2(8): OMG  is very snowy
+Helicopter#H4(9): OMG  its snowing
+Baloon#B2(2): OMG The SNOW its BALL TIME
+JetPlane#J1(3): OMG  is very hot
+Helicopter#H1(4): OMG  its raining
+Helicopter#H2(5): OMG  is very hot
+Helicopter#H3(6): OMG  is very hot
+Baloon#B3(7): OMG  it raining
+JetPlane#J2(8): OMG  its raining
+Helicopter#H4(9): OMG  i cant see anything foggy
+Baloon#B1(1): OMG  is very hot
+Baloon#B2(2): OMG The SNOW its BALL TIME
+JetPlane#J1(3): OMG it foggy
+Helicopter#H2(5): OMG  its snowing
+JetPlane#J2(8): OMG  is very snowy
+Baloon#B1(1): OMG The SNOW its BALL TIME
+JetPlane#J1(3): OMG  is very hot
+Helicopter#H1(4): OMG  i cant see anything foggy
+Helicopter#H3(6): OMG  is very hot
+Baloon#B3(7): OMG The SNOW its BALL TIME
+Helicopter#H4(9): OMG  its snowing
+Baloon#B1(1): OMG  it raining
+JetPlane#J1(3): OMG  its raining
+Helicopter#H1(4): OMG  is very hot
+Helicopter#H2(5): OMG  its snowing
+Helicopter#H3(6): OMG  its raining
+JetPlane#J2(8): OMG  its raining
+Helicopter#H4(9): OMG  is very hot
+Baloon#B1(1): OMG  is very hot
+Baloon#B2(2): OMG  is very hot
+JetPlane#J1(3): OMG it foggy
+Helicopter#H1(4): OMG  i cant see anything foggy
+Helicopter#H2(5): OMG  its snowing
+Helicopter#H3(6): OMG  its raining
+Baloon#B3(7): OMG The SNOW its BALL TIME
+JetPlane#J2(8): OMG  is very snowy
+Helicopter#H4(9): OMG  its snowing
+Baloon#B1(1): OMG  it raining
+Baloon#B2(2): OMG  it raining
+JetPlane#J1(3): OMG  its raining
+Helicopter#H1(4): OMG  i cant see anything foggy
+Helicopter#H3(6): OMG  its raining
+Baloon#B3(7): OMG  it raining
+JetPlane#J2(8): OMG  its raining
+Helicopter#H4(9): OMG  is very hot
+Baloon#B1(1): OMG  is very hot
+Baloon#B2(2): OMG  is very hot
+Helicopter#H4(9): OMG  its snowing
+Baloon#B1(1): OMG  is very hot
+Baloon#B2(2): OMG  is very hot
+JetPlane#J1(3): OMG it foggy
+Helicopter#H1(4): OMG  its snowing
+Helicopter#H2(5): OMG  its snowing
+Helicopter#H3(6): OMG  its snowing
+Baloon#B3(7): OMG  cant see anything
+JetPlane#J2(8): OMG  is very hot
+Helicopter#H4(9): OMG  its raining
+Baloon#B1(1): OMG The SNOW its BALL TIME
+Baloon#B2(2): OMG  cant see anything
+JetPlane#J1(3): OMG  is very snowy
+Helicopter#H2(5): OMG  its snowing
+Helicopter#H3(6): OMG  its snowing
+Baloon#B3(7): OMG The SNOW its BALL TIME
+JetPlane#J2(8): OMG it foggy
+Helicopter#H4(9): OMG  its raining
+Helicopter#H1(4): OMG  i cant see anything foggy
+Helicopter#H2(5): OMG  is very hot
+Helicopter#H3(6): OMG  its snowing
+Baloon#B3(7): OMG The SNOW its BALL TIME
+Helicopter#H4(9): OMG  its raining
+Baloon#B1(1): OMG  it raining
+Baloon#B2(2): OMG  is very hot
+JetPlane#J1(3): OMG  is very hot
+Helicopter#H1(4): OMG  i cant see anything foggy
+Helicopter#H2(5): OMG  its raining
+Baloon#B3(7): OMG The SNOW its BALL TIME
+Baloon#B1(1): OMG The SNOW its BALL TIME
+Baloon#B2(2): OMG  it raining
+JetPlane#J1(3): OMG  is very snowy
+Helicopter#H1(4): OMG  its snowing
+Helicopter#H3(6): OMG  its snowing
+Baloon#B3(7): OMG The SNOW its BALL TIME
+JetPlane#J2(8): OMG  its raining
+Helicopter#H4(9): OMG  its snowing
+Baloon#B1(1): OMG  is very hot
+Helicopter#H3(6): OMG  its raining
+Baloon#B3(7): OMG The SNOW its BALL TIME
+JetPlane#J2(8): OMG  its raining
+Helicopter#H4(9): OMG  i cant see anything foggy
+Baloon#B1(1): OMG The SNOW its BALL TIME
+JetPlane#J1(3): OMG it foggy
+Helicopter#H1(4): OMG  i cant see anything foggy
+Baloon#B3(7): OMG  is very hot
+JetPlane#J2(8): OMG  is very snowy
+Helicopter#H4(9): OMG  i cant see anything foggy
+Baloon#B1(1): OMG  cant see anything
+Baloon#B2(2): OMG The SNOW its BALL TIME
+Helicopter#H1(4): OMG  its snowing
+Helicopter#H2(5): OMG  its snowing
+JetPlane#J2(8): OMG  is very snowy
+Helicopter#H4(9): OMG  its snowing
+Baloon#B1(1): OMG  cant see anything
+JetPlane#J1(3): OMG it foggy
+Helicopter#H2(5): OMG  is very hot
+JetPlane#J2(8): OMG  is very snowy
+
+ *************** Simulation has ended ************
