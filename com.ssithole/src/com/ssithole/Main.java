@@ -7,32 +7,31 @@ import com.ssithole.WriteLog.log;
 
 import static com.ssithole.WriteLog.log.addLog;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-    public static void main(final String[] args) throws Exception {
+   public static void main(String[] args){
          WeatherTower weatherTower;
          List<Flyable> flyables = new ArrayList<Flyable>();
 
-        //final BufferedReader reader = new BufferedReader(new FileReader("/home/sikhumbubuzo/Desktop/Avaj_launcher/com.ssithole/src/com/ssithole/senario.txt"));
             log log = new log();
             try {
+                File file = new File("/home/sikhumbubuzo/Desktop/Avaj_launcher/com.ssithole/src/com/ssithole/senario.txt");
+//                File file = new File(args[0]);
                 log.writeToFile();
-                BufferedReader reader = new BufferedReader(new FileReader("/home/sikhumbubuzo/Desktop/Avaj_launcher/com.ssithole/src/com/ssithole/senario.txt"));
+                BufferedReader reader = new BufferedReader(new FileReader(file));
                 String line = reader.readLine();
                 if (line != null) {
                     weatherTower = new WeatherTower();
-                    int simulations = Integer.parseInt(line.split(" ")[0]);
-                    System.out.println(simulations + " Simulations to do");
-                    if (simulations < 0) {
-                        System.out.println("Invalid simulations count " + simulations);
+                    int simulate = Integer.parseInt(line.split(" ")[0]);
+                    System.out.println(simulate + " Simulations to do");
+                    if (simulate < 0) {
+                        System.out.println("Invalid simulations count " + simulate);
                         System.exit(1);
                     }
+//                    String split = line.split(" ");
                     while ((line = reader.readLine()) != null) {
                         Flyable flyable = AircraftFactory.newAircraft(line.split(" ")[0], line.split(" ")[1],
                                 Integer.parseInt(line.split(" ")[2]), Integer.parseInt(line.split(" ")[3]),
@@ -45,11 +44,11 @@ public class Main {
                     for (Flyable flyable : flyables) {
                         flyable.registerTower(weatherTower);
                     }
-                    for (int i = 1; i <= simulations; i++) {
+                    for (int i = 0; i <= simulate; i++) {
                         weatherTower.changeWeather();
                     }
                 }
-                log.addLog("\n *************** Simulation has ended ************");
+//                log.addLog("\n *************** Simulation has ended ************");
                 reader.close();
             } catch (FileNotFoundException e) {
                 System.out.println("File " + args[0] + " Does not exist");
